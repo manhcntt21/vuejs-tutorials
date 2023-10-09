@@ -225,3 +225,4 @@ Cách tạo data và method như này gọi là Option API, còn một cách g�
 ## Tài liệu tham khảo
 1. [What is Vue?](https://vuejs.org/guide/introduction.html)
 2. [Declarative vs imperative](https://dev.to/ruizb/declarative-vs-imperative-4a7l#:~:text=Functional%20Programming%20is%20a%20declarative,explicitly%20specifying%20its%20control%20flow.)
+3. [Thinking in components with Vue.js](https://medium.com/@_shirish/thinking-in-components-with-vue-js-a35b5af12df)
