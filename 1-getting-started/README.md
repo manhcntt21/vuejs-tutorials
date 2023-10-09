@@ -46,7 +46,7 @@ const res = [1, 2, 3].map(n => n * 2)
 3. Reactive: ứng dụng có khả năng phản ứng tự động với sự thay đổi của user như là show validation input error, overlay,...
 4. Web-frontend: nó là những gì user nhìn thấy, nó bao gồm HTML + CSS + Javascript, chạy trong browser của người dùng.
 
-Nếu chỉ dùng vanilla Javascript mà cần đến framework thì sao? 
+Nếu chỉ dùng vanilla Javascript mà không cần đến framework thì sao? 
 Chúng ta có thể build bất kỳ web application nào chỉ với vanilla Javascript, khi đó chúng ta phải viết rất nhiều code, phải tự tối ưu code, làm việc với team khó hơn vì khó thông nhất struct code,.. Vậy nên cần một framework
 ***
 ## Ứng dụng
@@ -61,7 +61,7 @@ Chúng ta có thể build bất kỳ web application nào chỉ với vanilla Ja
 - Tôi sẽ bắt đầu bằng việc chưa áp dụng Vue cho ví dụ sau: (đây cũng gọi là imperative)
 <table>
 <tr>
-<td>html</td> <td>css</td><td>js</td>
+<td>index.html</td><td>style.css</td><td>app.js</td>
 </tr>
 <tr>
 <td>
@@ -160,7 +160,7 @@ buttonEl.addEventListener('click', addGold);
 - Sau khi áp dụng Vue (without build tools) - declarative 
 <table>
 <tr>
-<td>html</td> <td>css</td><td>js</td>
+<td>index.html</td> <td>style.css</td><td>app.js</td>
 </tr>
 <tr>
 <td>
