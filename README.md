@@ -2,7 +2,7 @@ Repos này chứa một số nội dung cơ bản cho bạn nào muốn tìm hi�
 
 1. [Vuejs là gì](./1-getting-started/)
 2. [Basics & core concepts - DOM Interaction with Vue](./2-basic-&-concepts)
-3. Rendering conditional Content & Lists
+3. [Rendering conditional Content & Lists](./3-conditional-content-&-lists)
 4. Vue: Behind the Scenes
 5. Introducing components
 6. Moving to a better Development Setup & Workflow with the Vue CLI
