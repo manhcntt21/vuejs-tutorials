@@ -1,5 +1,6 @@
 Repos này chứa một số nội dung cơ bản cho bạn nào muốn tìm hiểu về Vuejs, mình tổng hợp sau khi tham gia một khoá học trên udemy và đọc document.
 
+## Outline
 1. [Vuejs là gì](./1-getting-started/)
 2. [Basics & core concepts - DOM Interaction with Vue](./2-basic-&-concepts)
 3. [Rendering conditional Content & Lists](./3-conditional-content-&-lists)
@@ -17,3 +18,5 @@ Repos này chứa một số nội dung cơ bản cho bạn nào muốn tìm hi�
 15. Optimizing & Deploying Vue Apps
 16. The Composition API - Replacing the Options API
 17. Reusing Funtionality: Mixins & Custom Composition Functions
+### Nên làm
+Nếu cảm thấy hữu ích đừng ngần ngại gửi tặng tôi một ngôi sao (star) để tôi có động lực hơn hoàn thành những giáo án chất lượng, cám ơn các bạn rất nhiều.
