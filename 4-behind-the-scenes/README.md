@@ -5,7 +5,9 @@ Chúng ta đã biết cách hiện thị giá trị của một biến trên htm
 ## Outline
 1. [Javascript Proxies & Reactive Object in Vuejs](#Javascript-Proxies-&-Reactive-Object-in-Vuejs)
 2. [Hooks in Vuejs](#Hooks-in-Vuejs)
+3. [References](#References)
 ***
+
 ### Javascript Proxies & Reactive Object in Vuejs
 Mình sẽ không đi quá sâu và làm rõ Javascript vì đây là hướng dẫn về Vuejs. Trước khi xem `Reactive` nó là gì chúng ta sẽ cần hiểu về khái niệm Proxies trong Javascript.
 
